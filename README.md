@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali Shahid</h1>
 <h3 align="center">A passionate full stack developer<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h3>
 
-
-![6vIk](https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/d30fb643-1f2e-4c40-8a07-9395979de0e9)
+<img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"   width="35%"/>
+<img align="right src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/d30fb643-1f2e-4c40-8a07-9395979de0e9</>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitmuhammadali&label=Profile%20views&color=0e75b6&style=flat" alt="gitmuhammadali" /> </p>
