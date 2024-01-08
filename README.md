@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 
-Uploading 6vIk.mp4…
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitmuhammadali&label=Profile%20views&color=0e75b6&style=flat" alt="gitmuhammadali" /> </p>
