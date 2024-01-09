@@ -7,6 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitmuhammadali&label=Profile%20views&color=0e75b6&style=flat" alt="gitmuhammadali" /> </p>
 
+
+<ul>
+<li>🌱 Aspiring Developer | Tech Enthusiast | Continuous Learner </li>
+<li>🔧 Actively working on personal projects to apply and reinforce my coding skills.</li>
+<li>🚀 Seeking collaboration and mentorship opportunities to accelerate my growth in the tech community.</li>
+<li>💻 Actively learning and applying my skills to build scalable and efficient applications. Excited about the endless possibilities that Node.js and Next.js and many more bring to the table. </li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-shahid-full-stack-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-shahid-full-stack-developer/" height="30" width="40" /></a>
