@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali Shahid</h1>
 <h3 align="center">A passionate full stack developer<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h3>
 
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitmuhammadali&label=Profile%20views&color=0e75b6&style=flat" alt="gitmuhammadali" /> </p>
 
-![4zeM](https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4)
+
+
+<img align="right" src= "![4zeM](https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4)"  width="35%"/>
 
 <ul>
 <li>🌱 Aspiring Developer | Tech Enthusiast | Continuous Learner </li>
