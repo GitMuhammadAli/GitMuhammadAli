@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitmuhammadali&label=Profile%20views&color=0e75b6&style=flat" alt="gitmuhammadali" /> </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.gifer.com/4zeM.gif">
+<img align="right" alt="Coding" width="300" src="https://i.gifer.com/4zeM.gif"/>
 <ul>
 <li>🌱 Aspiring Developer | Tech Enthusiast | Continuous Learner </li>
 <li>🔧 Actively working on personal projects to apply and reinforce my coding skills.</li>
