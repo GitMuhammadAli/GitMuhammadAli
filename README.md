@@ -5,7 +5,7 @@
 
 
 
-<img align="right" src= "![4zeM](https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4)"  width="35%"/>
+<img align="right" src= "https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4/coding.gif"  width="35%"/>
 
 <ul>
 <li>🌱 Aspiring Developer | Tech Enthusiast | Continuous Learner </li>
