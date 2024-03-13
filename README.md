@@ -8,7 +8,7 @@
 <img align="right" src= "https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4/coding.gif"  width="35%"/>
 
 <ul>
-<li>🌱 Aspiring Developer | Tech Enthusiast | Continuous Learner </li>
+<li>🌱 Aspiring Developer |  Continuous Learner </li>
 <li>🔧 Actively working on personal projects to apply and reinforce my coding skills.</li>
 <li>🚀 Seeking collaboration and mentorship opportunities to accelerate my growth in the tech community.</li>
 <li>💻 Actively learning and applying my skills to build scalable and efficient applications. Excited about the endless possibilities that Node.js and Next.js and many more bring to the table. </li>
