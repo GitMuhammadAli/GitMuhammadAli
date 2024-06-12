@@ -61,7 +61,8 @@
 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitmuhammadali&show_icons=true&locale=en&layout=compact&langs_count=10" alt="gitmuhammadali" />
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitmuhammadali&show_icons=true&locale=en&layout=compact&langs_count=10" alt="gitmuhammadali" />](https://github-readme-stats.vercel.app/api/top-langs?username=gitmuhammadali&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark
+)
 </p>
 
 
