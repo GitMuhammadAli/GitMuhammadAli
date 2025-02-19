@@ -30,7 +30,7 @@
   </div>
 
   <!-- Right Section: Images -->
-  <div>
+  <div style="flex: 1; display: flex; justify-content: right>
     <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" 
          style="width: 20%;"/>
        
