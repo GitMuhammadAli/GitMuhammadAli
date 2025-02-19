@@ -16,25 +16,7 @@
 </div>
 
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem; flex-wrap: wrap; margin: 2rem 0;">
-  <!-- Left Section -->
-  <div style="flex: 1 1 60%; min-width: 300px;">
-    <div style="display: flex; gap: 1rem; justify-content: center;">
-      <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" 
-           style="width: 45%; border-radius: 8px;"/>
-      <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" 
-           alt="Codewars Badge" 
-           style="width: 45%; border-radius: 8px; background: rgba(255,255,255,0.05);"/>
-    </div>
-  </div>
 
- 
-    ### 🔥 Current Focus
-    - 🌱 Mastering **Next.js 14** & **TypeScript**
-    - 🛠️ Building **Scalable Backend Systems** with Node.js
-    - 🧪 Exploring **Microservices Architecture**
-    - 📚 Learning **System Design** Patterns
-</div>
 
 <div align="center" style="display: flex;">
   <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="40%"/>
