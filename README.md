@@ -22,7 +22,7 @@
 
 
 <div align="center" style="display: flex;">
-  <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4"/>
+  <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="40%"/>
        
   <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" 
        alt="Codewars Badge" 
