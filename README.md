@@ -32,7 +32,7 @@
   <!-- Right Section: Images -->
   <div style="flex: 1; display: flex; justify-content: center; gap: 10px; min-width: 300px;">
     <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" 
-         style="width: 40%; max-width: 200px;"/>
+         style="width: 40%;"/>
        
   <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" 
          alt="Codewars Badge" 
