@@ -17,7 +17,7 @@
 
 
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: nowrap;">
   
   <!-- Left Section: Focus Details -->
   <div style="flex: 1; min-width: 300px;">
