@@ -30,9 +30,9 @@
   </div>
 
   <!-- Right Section: Images -->
-  <div style="flex: 1; display: flex; justify-content: right;">
+  <div>
     <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" 
-         style="width: 40%;"/>
+         style="width: 20%;"/>
        
   <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" 
          alt="Codewars Badge" 
