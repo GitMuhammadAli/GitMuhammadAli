@@ -28,16 +28,6 @@
     </ul>
   </div>
 
-  <div style="flex: 1; text-align: right; min-width: 300px;">
-    <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="45%" style="margin-right: 10px;"/>
-    <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" 
-         alt="Codewars Badge" 
-         style="width: 50%; 
-                max-width: 500px; 
-                border-radius: 8px;
-                padding: 8px;
-                background: rgba(255,255,255,0.05);"/>
-  </div>
 
 </div>
 
