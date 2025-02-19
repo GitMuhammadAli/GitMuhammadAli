@@ -28,12 +28,6 @@
     </ul>
   </div>
 
-
-</div>
-
-
-
-
 <div align="center" style="display: flex;">
   <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="40%"/>
        
@@ -46,12 +40,10 @@
               background: rgba(255,255,255,0.05);"/>
 </div>
 
+</div>
 
-### 🔥 Current Focus
-- 🌱 Mastering **Next.js 14** & **TypeScript**
-- 🛠️ Building **Scalable Backend Systems** with Node.js
-- 🧪 Exploring **Microservices Architecture**
-- 📚 Learning **System Design** Patterns
+
+
 
 ---
 
