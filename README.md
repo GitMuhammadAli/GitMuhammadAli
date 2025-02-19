@@ -30,14 +30,6 @@
 
 
 
-    
-<div style="display: flex; align-items: center; justify-content: space-between;">  
-<div style="flex: 1; text-align: right;">
-    <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" width="300"/>
-  </div>
-
-</div>
-
 
 
 <br>
