@@ -6,15 +6,30 @@
 </p>
 
 
+
+
+=====
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=gitmuhammadali&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> 
-  <a href="https://www.codewars.com/users/GitMuhammadAli"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white" alt="Codewars"/></a>
+  <a href="https://www.codewars.com/users/GitMuhammadAli">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white" alt="Codewars"/>
+  </a>
 </p>
-
-<div align="center">
-  <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="40%"/>
-  <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" alt="Codewars Badge"/>
+<div align="center" style="display: flex; 
+                          justify-content: center; 
+                          align-items: center; 
+                          gap: 3rem; 
+                          flex-wrap: wrap; 
+                          margin: 2rem 0;
+                          padding: 1rem;
+                          background: rgba(255,255,255,0.05);
+                          border-radius: 12px;">
+<!-- <div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin-bottom: 2rem;"> -->
+  <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" style="width: 35%; max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" alt="Codewars Badge" style="width: 50%; max-width: 600px; border-radius: 8px;"/>
 </div>
+
 
 ---
 
