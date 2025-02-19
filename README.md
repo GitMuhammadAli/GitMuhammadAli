@@ -31,8 +31,7 @@
   </div>
 
   <!-- Right Section: Images with spacing -->
-<!-- <div style="flex: 1; text-align: right;"> -->
-  <div>
+<div style="flex: 1; text-align: right;">
     <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="350" style="margin-bottom: 15px;"/>  
     <br/>  
     <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" width="300"/>
