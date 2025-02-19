@@ -16,12 +16,22 @@
 </div>
 
 
- <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="350" style="margin-bottom: 15px;"/>  
-    <br/>  
-    <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" width="300"/>
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  
-  <!-- Left Section: Focus Details -->
+
+<!-- Right-Aligned Image -->
+<img align="right" src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="35%" style="margin-left: 20px;"/>
+
+### 🔥 Current Focus
+- 🌱 Mastering **Next.js 14** & **TypeScript**
+- 🛠️ Building **Scalable Backend Systems** with Node.js
+- 🧪 Exploring **Microservices Architecture**
+- 📚 Learning **System Design Patterns**
+
+<!-- Below the text, add the CodeWars badge -->
+<img align="right" src="https://www.codewars.com/users/GitMuhammadAli/badges/large" width="30%"/>
+
+
+    
+<div style="display: flex; align-items: center; justify-content: space-between;">  
   <div style="flex: 1; min-width: 300px;">
     <h3>🔥 Current Focus</h3>
     <ul>
