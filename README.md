@@ -21,14 +21,7 @@
 </div>
 
 
-<div align="center" style="display: flex; 
-                          justify-content: space-around; 
-                          align-items: center; 
-                          flex-wrap: wrap; 
-                          gap: 2rem; 
-                          background: rgba(255,255,255,0.03);
-                          border-radius: 15px;
-                          box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+<div align="center" style="display: flex;>
   <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4"/>
        
   <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" 
