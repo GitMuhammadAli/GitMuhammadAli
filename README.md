@@ -28,14 +28,12 @@
     </div>
   </div>
 
-  <!-- Right Section -->
-  <div style="flex: 1 1 35%; min-width: 250px; text-align: left; padding: 1rem; background: rgba(255,255,255,0.03); border-radius: 8px;">
+ 
     ### 🔥 Current Focus
     - 🌱 Mastering **Next.js 14** & **TypeScript**
     - 🛠️ Building **Scalable Backend Systems** with Node.js
     - 🧪 Exploring **Microservices Architecture**
     - 📚 Learning **System Design** Patterns
-  </div>
 </div>
 
 <div align="center" style="display: flex;">
