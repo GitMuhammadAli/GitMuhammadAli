@@ -5,10 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Coding+is+my+superpower%F0%9F%9A%80;Turning+coffee+into+code+since+2022%F0%9F%8D%B5;Full-stack+developer+in+training%F0%9F%93%9A;" alt="Typing SVG" /></a>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=gitmuhammadali&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> 
-  <a href="https://www.codewars.com/users/GitMuhammadAli"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white" alt="Codewars"/></a>
-</p>
+
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 1rem 0;">
@@ -23,6 +20,32 @@
   <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" alt="Codewars Badge"/>
 </div>
 
+
+<div align="center" style="display: flex; 
+                          justify-content: space-around; 
+                          align-items: center; 
+                          flex-wrap: wrap; 
+                          gap: 2rem; 
+                          margin: 2rem 0;
+                          padding: 1.5rem;
+                          background: rgba(255,255,255,0.03);
+                          border-radius: 15px;
+                          box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" 
+       style="width: 45%; 
+              max-width: 400px; 
+              border-radius: 12px;
+              transition: transform 0.3s ease;
+              &:hover { transform: scale(1.02); }"/>
+       
+  <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" 
+       alt="Codewars Badge" 
+       style="width: 45%; 
+              max-width: 500px; 
+              border-radius: 8px;
+              padding: 8px;
+              background: rgba(255,255,255,0.05);"/>
+</div>
 ---
 
 ### 🔥 Current Focus
