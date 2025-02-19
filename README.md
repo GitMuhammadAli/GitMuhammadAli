@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Coding+is+my+superpower%F0%9F%9A%80;Turning+coffee+into+code+since+2022%F0%9F%8D%B5;Full-stack+developer+in+training%F0%9F%93%9A;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"></a>
 </p>
 
 <p align="center"> 
