@@ -2,13 +2,21 @@
 <h3 align="center">💻 Full Stack Developer </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Coding+is+my+superpower%F0%9F%9A%80;Turning+coffee+into+code+since+2022%F0%9F%8D%B5;Full-stack+developer+in+training%F0%9F%93%9A;" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=gitmuhammadali&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> 
   <a href="https://www.codewars.com/users/GitMuhammadAli"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white" alt="Codewars"/></a>
 </p>
+
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 1rem 0;">
+  <a href="https://www.codewars.com/users/GitMuhammadAli">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gitmuhammadali&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
+</div>
 
 <div align="center">
   <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="40%"/>
@@ -42,7 +50,6 @@
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
@@ -57,7 +64,6 @@
 
 ### 🏆 Achievements
 ![Codewars](https://github.r2v.ch/codewars?user=GitMuhammadAli&stroke=%23BB432C)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 ---
 
@@ -69,9 +75,7 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/GitMuhammadAli/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
+  
 </p>
 
 ---
