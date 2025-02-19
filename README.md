@@ -47,7 +47,7 @@
 <table>
   <tr>
     <!-- Left Side: Focus Details -->
-    <td valign="top" width="50%">
+    <td valign="top" width="55%" style="padding-right: 20px;">
       <h3>🔥 Current Focus</h3>
       <ul>
         <li>🌱 Mastering <strong>Next.js 14</strong> & <strong>TypeScript</strong></li>
@@ -56,10 +56,10 @@
         <li>📚 Learning <strong>System Design</strong> Patterns</li>
       </ul>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="250"/>
-      <br/>
-      <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" width="200"/>
+    <td align="center" width="45%">
+      <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="300"/>
+      <br/><br/>
+      <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" width="250"/>
     </td>
   </tr>
 </table>
