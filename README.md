@@ -1,22 +1,19 @@
 <h1 align="center">🚀 Hi, I'm Muhammad Ali Shahid</h1>
-<h3 align="center">💻 Full Stack Developer</h3>
+<h3 align="center">💻 Full Stack Developer </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Coding+is+my+superpower%F0%9F%9A%80;Turning+coffee+into+code+since+2022%F0%9F%8D%B5;Full-stack+developer+in+training%F0%9F%93%9A;Open-source+enthusiast%F0%9F%92%AC" alt="Typing SVG" /></a>
 </p>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=gitmuhammadali&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> 
+  <a href="https://www.codewars.com/users/GitMuhammadAli"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white" alt="Codewars"/></a>
+</p>
 
-
-
-=====
-
-
-
-<div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin-bottom: 2rem;"> 
-  <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" style="width: 35%; max-width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-  <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" alt="Codewars Badge" style="width: 50%; max-width: 600px; border-radius: 8px;"/>
+<div align="center">
+  <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="40%"/>
+  <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" alt="Codewars Badge"/>
 </div>
-
 
 ---
 
