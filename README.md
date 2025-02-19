@@ -15,11 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=gitmuhammadali&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="40%"/>
-  <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" alt="Codewars Badge"/>
-</div>
-
 
 <div align="center" style="display: flex;">
   <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="40%"/>
