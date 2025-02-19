@@ -16,33 +16,6 @@
 </div>
 
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  
-  <!-- Left Section: Current Focus -->
-  <div style="flex: 1; min-width: 300px;">
-    <h3>🔥 Current Focus</h3>
-    <ul>
-      <li>🌱 Mastering <strong>Next.js 14</strong> & <strong>TypeScript</strong></li>
-      <li>🛠️ Building <strong>Scalable Backend Systems</strong> with Node.js</li>
-      <li>🧪 Exploring <strong>Microservices Architecture</strong></li>
-      <li>📚 Learning <strong>System Design</strong> Patterns</li>
-    </ul>
-  </div>
-
-  <!-- Right Section: Images -->
-  <div style="flex: 1; display: flex; justify-content: right">
-    <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" 
-         style="width: 20%;"/>
-       
-  <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" 
-         alt="Codewars Badge" 
-         style="width: 45%; max-width: 250px; border-radius: 8px; padding: 8px; background: rgba(255,255,255,0.05);"/>
-  </div>
-
-</div>
-
-
-
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
   
@@ -58,7 +31,7 @@
   </div>
 
   <!-- Right Section: Images with spacing -->
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; text-align: right;">
     <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="350" style="margin-bottom: 15px;"/>  
     <br/>  
     <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" width="300"/>
