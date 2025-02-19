@@ -44,26 +44,28 @@
 
 
 
-<!-- Use a table to align content -->
-<table>
-  <tr>
-    <!-- Left Side: Focus Details -->
-    <td width="50%" align="left">
-      <h3>🔥 Current Focus</h3>
-      <ul>
-        <li>🌱 Mastering <strong>Next.js 14</strong> & <strong>TypeScript</strong></li>
-        <li>🛠️ Building <strong>Scalable Backend Systems</strong> with Node.js</li>
-        <li>🧪 Exploring <strong>Microservices Architecture</strong></li>
-        <li>📚 Learning <strong>System Design</strong> Patterns</li>
-      </ul>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="350"/>  
-      <br/><br/>  
-      <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" width="300"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  
+  <!-- Left Section: Focus Details -->
+  <div style="flex: 1; min-width: 300px;">
+    <h3>🔥 Current Focus</h3>
+    <ul>
+      <li>🌱 Mastering <strong>Next.js 14</strong> & <strong>TypeScript</strong></li>
+      <li>🛠️ Building <strong>Scalable Backend Systems</strong> with Node.js</li>
+      <li>🧪 Exploring <strong>Microservices Architecture</strong></li>
+      <li>📚 Learning <strong>System Design</strong> Patterns</li>
+    </ul>
+  </div>
+
+  <!-- Right Section: Images with spacing -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="350" style="margin-bottom: 15px;"/>  
+    <br/>  
+    <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" width="300"/>
+  </div>
+
+</div>
+
 
 
 
