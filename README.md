@@ -26,14 +26,10 @@
 - 🧪 Exploring **Microservices Architecture**
 - 📚 Learning **System Design Patterns**
 
-<!-- Below the text, add the CodeWars badge -->
-<img align="right" src="https://www.codewars.com/users/GitMuhammadAli/badges/large" width="30%"/>
 
 
     
 <div style="display: flex; align-items: center; justify-content: space-between;">  
-
-  <!-- Right Section: Images with spacing -->
 <div style="flex: 1; text-align: right;">
     <img src="https://www.codewars.com/users/GitMuhammadAli/badges/large" width="300"/>
   </div>
