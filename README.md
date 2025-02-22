@@ -23,7 +23,7 @@
 <img align="right" src="https://github.com/GitMuhammadAli/GitMuhammadAli/assets/135626772/000bc313-3c8e-4d25-8702-f32e15f3d4b4" width="35%" style="margin-left: 20px;"/>
 
 ### 🔥 Current Focus
-- 🌱 Mastering **Next.js 14** & **TypeScript**
+- 🌱 Learning **Next.js 14** & **TypeScript**
 - 🛠️ Building **Scalable Backend Systems** with Node.js
 - 🧪 Exploring **Microservices Architecture**
 - 📚 Learning **System Design Patterns**
