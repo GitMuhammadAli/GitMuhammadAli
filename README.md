@@ -70,7 +70,7 @@
 
 ### 🏆 Achievements
 ![Codewars](https://github.r2v.ch/codewars?user=GitMuhammadAli&stroke=%23BB432C)
-
+![edabit](https://github.r2v.ch/edabit?user=6A7ChAWqy82EcAaFZ&stroke=%23BB432C)
 ---
 
 ### 🤝 Let's Connect
