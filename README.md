@@ -72,8 +72,6 @@
 
 [![Codewars](https://github.r2v.ch/codewars?user=GitMuhammadAli&stroke=%23BB432C)](https://www.codewars.com/users/GitMuhammadAli)
 
-[![Edabit](https://github.r2v.ch/edabit?user=6A7ChAWqy82EcAaFZ&stroke=%23BB432C)](https://edabit.com/user/6A7ChAWqy82EcAaFZ)
-
 ---
 
 ### 🤝 Let's Connect
