@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Trying+my+best%F0%9F%9A%80;Turning+coffee+into+code+since+2022%F0%9F%8D%B5;Full-stack+developer+in+training%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Trying+my+best%F0%9F%9A%80;Mern+Nest+Next+Sql+NoSql+%F0%9F%8D%B5;Full-stack+developer+in+training%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
