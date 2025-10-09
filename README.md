@@ -65,7 +65,8 @@
 ### 📈 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitMuhammadAli&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMuhammadAli&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=GitMuhammadAli&layout=compact&langs_count=8&theme=dark](https://github-readme-stats-yourname.vercel.app/api?username=GitMuhammadAli&show_icons=true&theme=dark&v=1
+)"/>
 </div>
 
 
