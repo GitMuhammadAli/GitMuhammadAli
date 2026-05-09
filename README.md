@@ -26,11 +26,11 @@
 
 ## &nbsp;`>` about
 
-I build **AI-shaped software end-to-end** — schema, API, frontend, deploy, observability.
+I build **AI-shaped software end-to-end** &mdash; schema, API, frontend, deploy, observability.
 Strong with **NestJS**, **Next.js**, and **Postgres**. Comfortable in the AI layer:
 embeddings, RAG, multi-agent pipelines, vector search, cost-aware routing.
 
-> **Bias for restraint** — one good abstraction over five clever ones, integration tests over mocks, real users over hypothetical scale.
+> **Bias for restraint** &mdash; one good abstraction over five clever ones, integration tests over mocks, real users over hypothetical scale.
 
 <br>
 
@@ -40,12 +40,12 @@ embeddings, RAG, multi-agent pipelines, vector search, cost-aware routing.
 <tr>
 <td width="50%" valign="top">
 
-### [Sahara](https://github.com/GitMuhammadAli/whatsapp-saas)
-<a href="https://github.com/GitMuhammadAli/whatsapp-saas">
+### [Sahara](https://sahara-pk.vercel.app)
+<a href="https://sahara-pk.vercel.app">
   <img src="https://alishahid-dev.vercel.app/projects/whatsapp-saas.png" width="100%" alt="Sahara" />
 </a>
 
-WhatsApp AI for Pakistani SMBs — multi-language replies in Urdu, Roman Urdu, and English. Order capture, owner dashboard, knowledge gap surfacing.
+WhatsApp AI for Pakistani SMBs &mdash; multi-language replies in Urdu, Roman Urdu, and English. Order capture, owner dashboard, knowledge gap surfacing.
 
 `Next.js 15` `Tailwind v4` `Prisma` `Postgres` `OpenAI` `Clerk` `Turborepo`
 
@@ -57,7 +57,7 @@ WhatsApp AI for Pakistani SMBs — multi-language replies in Urdu, Roman Urdu, a
   <img src="https://alishahid-dev.vercel.app/projects/devradar.png" width="100%" alt="DevRadar" />
 </a>
 
-Job market intelligence platform — real-time skill trends, salary data, AI interview prep. pgvector semantic resume matching.
+Job market intelligence platform &mdash; real-time skill trends, salary data, AI interview prep. pgvector semantic resume matching.
 
 `Next.js` `tRPC v11` `pgvector` `Groq AI` `Prisma` `Turborepo`
 
@@ -71,7 +71,7 @@ Job market intelligence platform — real-time skill trends, salary data, AI int
   <img src="https://alishahid-dev.vercel.app/projects/relo.png" width="100%" alt="Relo" />
 </a>
 
-AI learning companion — turn any social media URL into a spaced-repetition study plan. 9 platform scrapers, cascading AI router, SM-2 scheduling.
+AI learning companion &mdash; turn any social media URL into a spaced-repetition study plan. 9 platform scrapers, cascading AI router, SM-2 scheduling.
 
 `Next.js 16` `Supabase` `Groq` `Gemini` `Whisper` `Puppeteer`
 
@@ -83,7 +83,7 @@ AI learning companion — turn any social media URL into a spaced-repetition stu
   <img src="https://alishahid-dev.vercel.app/projects/nova-plus.png" width="100%" alt="Novapulsee" />
 </a>
 
-Multi-tenant enterprise SaaS — four AI agents on GPT-4o, Stripe billing with HMAC webhook retry, tenant-scoped Pinecone RAG.
+Multi-tenant enterprise SaaS &mdash; four AI agents on GPT-4o, Stripe billing with HMAC webhook retry, tenant-scoped Pinecone RAG.
 
 `NestJS` `MongoDB` `Pinecone` `Stripe` `OpenAI` `BullMQ`
 
@@ -97,10 +97,10 @@ Multi-tenant enterprise SaaS — four AI agents on GPT-4o, Stripe billing with H
 
 | | | |
 |---|---|---|
-| **[JobPilot](https://job-auto-applier-three.vercel.app)** | AI bulk-applier — 9 source scrapers, 4-agent personalisation pipeline | `Next.js` · `Prisma` · `Groq` |
+| **[JobPilot](https://job-auto-applier-three.vercel.app)** | AI bulk-applier &mdash; 9 source scrapers, 4-agent personalisation pipeline | `Next.js` · `Prisma` · `Groq` |
 | **[CareCircle](https://care-giving-web.vercel.app)** | Family caregiving coordination with RAG-based Q&A | `Next.js` · `NestJS` · `pgvector` |
 | **[Rate-Guard](https://github.com/GitMuhammadAli/RateGuard)** | Self-hosted LLM gateway with cost-aware provider routing | `NestJS` · `Postgres` · `Redis` |
-| **[Portfolio](https://alishahid-dev.vercel.app)** | The site you'll find a public ledger on — twelve builds | `Next.js 14` · `Tailwind` · `Framer` |
+| **[Portfolio](https://alishahid-dev.vercel.app)** | The site you'll find a public ledger on &mdash; twelve builds | `Next.js 14` · `Tailwind` · `Framer` |
 
 <br>
 
@@ -117,7 +117,7 @@ Multi-tenant enterprise SaaS — four AI agents on GPT-4o, Stripe billing with H
   </a>
 </p>
 
-​```ts
+```ts
 const stack = {
   language: ['TypeScript', 'JavaScript', 'SQL'],
   frontend: ['Next.js 15', 'React 19', 'Tailwind v4', 'shadcn/ui', 'Framer Motion', 'Zustand'],
@@ -127,7 +127,7 @@ const stack = {
   devops:   ['Docker', 'GitHub Actions', 'Vercel', 'Render', 'Fly.io', 'Sentry'],
   exploring:['Server Actions', 'Edge runtime', 'Drizzle', 'AI SDK', 'Workers'],
 }
-​```
+```
 
 <br>
 
@@ -151,18 +151,6 @@ const stack = {
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=GitMuhammadAli&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
   </a>
-</p>
-
-<br>
-
-## &nbsp;`>` contribution graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GitMuhammadAli/GitMuhammadAli/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GitMuhammadAli/GitMuhammadAli/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/GitMuhammadAli/GitMuhammadAli/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
 </p>
 
 <br>
@@ -197,8 +185,8 @@ const stack = {
 
 <p align="center">
   <sub>
-    email is best — I answer within 48 hours during build cycles, faster otherwise.<br>
-    no calendar links · no newsletter · no "let's chat".
+    email is best &mdash; I answer within 48 hours during build cycles, faster otherwise.<br>
+    no calendar links · no newsletter · no &ldquo;let&rsquo;s chat&rdquo;.
   </sub>
 </p>
 
