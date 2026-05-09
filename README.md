@@ -2,7 +2,7 @@
   Ali Shahid · GitHub profile README
   Monochrome / FAANG-minimal palette to match alishahid-dev.vercel.app
   Animation-heavy: twinkling header, cycling typing, animated stats,
-  drawing activity graph, contribution snake, rotating metrics.
+  drawing activity graph, animated trophies, randomized quote.
 -->
 
 <!-- ────────  ANIMATED HEADER  ──────── -->
@@ -35,8 +35,6 @@
 
 <br>
 
-<!-- ────────  ABOUT  ──────── -->
-
 ## &nbsp;`>` about
 
 I build **AI-shaped software end-to-end** &mdash; schema, API, frontend, deploy, observability.
@@ -48,8 +46,6 @@ embeddings, RAG, multi-agent pipelines, vector search, cost-aware routing.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=27272a&height=2&section=header" width="100%" />
 
 <br>
-
-<!-- ────────  PROJECT GRID  ──────── -->
 
 ## &nbsp;`>` currently building
 
@@ -123,8 +119,6 @@ Multi-tenant enterprise SaaS &mdash; four AI agents on GPT-4o, Stripe HMAC webho
 
 <br>
 
-<!-- ────────  STACK · SKILLICONS GRID  ──────── -->
-
 ## &nbsp;`>` stack
 
 <p align="center">
@@ -154,8 +148,6 @@ const stack = {
 
 <br>
 
-<!-- ────────  STATS · 4 ANIMATED CARDS  ──────── -->
-
 ## &nbsp;`>` stats
 
 <p align="center">
@@ -170,49 +162,23 @@ const stack = {
 
 <br>
 
-<!-- ────────  ANIMATED RUNNING SNAKE  ──────── -->
-
 ## &nbsp;`>` contribution graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GitMuhammadAli/GitMuhammadAli/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GitMuhammadAli/GitMuhammadAli/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/GitMuhammadAli/GitMuhammadAli/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img alt="snake animation" src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<sub align="center">↑ Snake regenerates nightly via GitHub Action. Setup at the bottom of this file.</sub>
-
 <br>
-
-<!-- ────────  TROPHIES  ──────── -->
 
 ## &nbsp;`>` trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GitMuhammadAli&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=14&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+    <img src="https://github-profile-trophy.vercel.app/?username=GitMuhammadAli&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=14&margin-h=10" />
   </a>
 </p>
 
 <br>
-
-<!-- ────────  GITHUB METRICS · ROTATING SVG  ──────── -->
-
-## &nbsp;`>` metrics
-
-<p align="center">
-  <a href="https://github.com/lowlighter/metrics">
-    <img alt="metrics" src="https://metrics.lecoq.io/GitMuhammadAli?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.ignored=html%2Ccss&languages.skipped=&languages.limit=8&languages.threshold=0%25&languages.sections=most-used&languages.colors=github&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics=1&topics.mode=mastered&topics.sort=stars&topics.limit=15&config.timezone=Asia%2FKarachi" />
-  </a>
-</p>
-
-<sub align="center">↑ Auto-renders via metrics action. Setup at the bottom of this file.</sub>
-
-<br>
-
-<!-- ────────  RANDOM DEV QUOTE · ANIMATED TYPING  ──────── -->
 
 ## &nbsp;`>` quote of the day
 
@@ -221,8 +187,6 @@ const stack = {
 </p>
 
 <br>
-
-<!-- ────────  CONTACT BADGES  ──────── -->
 
 ## &nbsp;`>` find me elsewhere
 
@@ -262,80 +226,3 @@ const stack = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:09090b&height=80&section=footer" width="100%" alt="" />
 </p>
-
-<!--
-═══════════════════════════════════════════════════════════════════════
-  ONE-TIME SETUP for the snake animation + metrics SVG
-═══════════════════════════════════════════════════════════════════════
-
-Both the contribution snake and the metrics SVG need GitHub Actions to
-regenerate them on a schedule. Without these workflows the two sections
-above will show broken images.
-
-────────────────────────────────────────────────────────────────────────
-  1. Snake animation
-────────────────────────────────────────────────────────────────────────
-Create `.github/workflows/snake.yml` in this same repo (GitMuhammadAli/
-GitMuhammadAli) with:
-
-  name: generate snake
-  on:
-    schedule: [{ cron: "0 */24 * * *" }]
-    workflow_dispatch:
-    push: { branches: [main] }
-  permissions: { contents: write }
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: GitMuhammadAli
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with: { target_branch: output, build_dir: dist }
-          env: { GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}" }
-
-Commit, then run "generate snake" manually once via the Actions tab.
-After ~30 seconds the `output` branch exists with both SVGs and the
-section above starts rendering.
-
-────────────────────────────────────────────────────────────────────────
-  2. Metrics SVG (rotating activity / community / repos panels)
-────────────────────────────────────────────────────────────────────────
-The metrics block uses a publicly hosted instance at metrics.lecoq.io
-which rate-limits to ~1 render per 6 hours per user. If that's too
-restrictive, self-host with this workflow at
-`.github/workflows/metrics.yml`:
-
-  name: metrics
-  on:
-    schedule: [{ cron: "0 0 * * *" }]
-    push: { branches: [main] }
-    workflow_dispatch:
-  jobs:
-    github-metrics:
-      runs-on: ubuntu-latest
-      permissions: { contents: write }
-      steps:
-        - uses: lowlighter/metrics@latest
-          with:
-            token: "${{ secrets.METRICS_TOKEN }}"
-            user: GitMuhammadAli
-            template: classic
-            base: header, activity, community, repositories, metadata
-            config_timezone: Asia/Karachi
-            plugin_isocalendar: yes
-            plugin_languages: yes
-            plugin_topics: yes
-
-You'll need a personal-access token with `repo, read:org, read:user`
-saved as repo secret METRICS_TOKEN. The action commits a `metrics.svg`
-to the repo root. Then change the metrics image src above to:
-  https://github.com/GitMuhammadAli/GitMuhammadAli/raw/main/metrics.svg
-
-Both workflows are optional — delete those two sections from the README
-if you'd rather not set them up. Everything else renders out of the box.
--->
