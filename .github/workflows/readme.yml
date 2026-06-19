@@ -1,0 +1,21 @@
+name: update recent activity
+
+on:
+  schedule:
+    - cron: "30 1 * * *" # daily, 01:30 UTC
+  workflow_dispatch: {} # allow manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: refresh recent activity"
+          MAX_LINES: 5
