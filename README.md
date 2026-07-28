@@ -62,9 +62,11 @@
 
 ---
 
-### 📈 GitHub Streak
+### 📈 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GitMuhammadAli&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak stats"/>
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitMuhammadAli&theme=github_dark" alt="Profile details"/>
+  <br/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GitMuhammadAli&theme=github_dark" alt="Top languages by repo"/>
 </div>
 
 
