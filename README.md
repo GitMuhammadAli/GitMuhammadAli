@@ -64,8 +64,15 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitMuhammadAli&show_icons=true&theme=dark&cache_seconds=1800&v=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMuhammadAli&layout=compact&langs_count=8&theme=dark&cache_seconds=1800&v=1"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitMuhammadAli&theme=github_dark" alt="Profile details"/>
+</div>
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GitMuhammadAli&theme=github_dark" alt="Top languages by repo"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GitMuhammadAli&theme=github_dark" alt="Most-committed languages"/>
+</div>
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitMuhammadAli&theme=github_dark" alt="Overall stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GitMuhammadAli&theme=github_dark&utcOffset=5" alt="Productive time"/>
 </div>
 
 
@@ -83,7 +90,7 @@
   <a href="https://www.linkedin.com/in/alishahid-fswebdev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:alishahid.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
